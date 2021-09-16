@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  background-color: #E8EAF6;
+  height: 100%;
+  padding-top: 2%;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+h1 {
+  margin-bottom: 5%;
+}
+
+img {
+  height: 300px;
+  border-radius: 30px;
+}
+
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.cat-item {
+  width: 500px;
+}
+
+.information {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.card-container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.description {
+  width: 80%;
+  margin: 0 auto;
+}
+
+button {
+  margin: 5%;
+}
